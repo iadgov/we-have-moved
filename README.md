@@ -6,7 +6,7 @@ The NSA Information Assurance GitHub organization at https://github.com/iadgov h
 | `https://github.com/iadgov/AtomicWatch` | https://github.com/nsacyber/AtomicWatch |
 | `https://github.com/iadgov/BitLocker-Guidance` | https://github.com/nsacyber/BitLocker-Guidance|
 | `https://github.com/iadgov/Certificate-Authority-Situational-Awareness` | https://github.com/nsacyber/Certificate-Authority-Situational-Awareness |
-| `https://github.com/iadgov/Connectivity-Tester` | https://github.com/nsacyber/Connectivity-Tester |
+| `https://github.com/iadgov/Connectivity-Tester` | https://github.com/nsacyber/HTTP-Connectivity-Tester |
 | `https://github.com/iadgov/Control-Flow-Integrity` | https://github.com/nsacyber/Control-Flow-Integrity |
 | `https://github.com/iadgov/Detect-CVE-2017-15361-TPM` | https://github.com/nsacyber/Detect-CVE-2017-15361-TPM |
 | `https://github.com/iadgov/Event-Forwarding-Guidance` | https://github.com/nsacyber/Event-Forwarding-Guidance |
